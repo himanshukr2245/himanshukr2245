@@ -27,7 +27,7 @@
 &nbsp;
 [![GitHub Followers](https://img.shields.io/github/followers/himanshukr2245?style=for-the-badge&color=764ba2&labelColor=0d1117&logo=github)](https://github.com/himanshukr2245?tab=followers)
 &nbsp;
-[![Xeraphine](https://img.shields.io/badge/🏢_XERAPHINE_TECHNOLOGY-667eea?style=for-the-badge&logoColor=white)](https://xeraphine.tech)
+[![Xeraphine](https://img.shields.io/badge/🏢_XERAPHINE_TECHNOLOGY-667eea?style=for-the-badge&logoColor=white)](https://xeraphine.in)
 
 </div>
 
@@ -40,33 +40,43 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp; About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+<table>
+<tr>
+<td width="55%" valign="top">
 
-```yaml
-name: Himanshu Kumar
-location: Patna, Bihar 🇮🇳
-education:
-  - IIT Madras BS in Data Science (Online Degree)
-  - JEE Main 2026 Aspirant (PCM + CS)
-company: Xeraphine Technology (Founder & Owner)
-mission: Become a world-class Data Scientist & AI Engineer
-dream_companies: [Google, Microsoft, Amazon, OpenAI]
-long_term: Lead DS teams → MS Abroad → Build AI that matters
+### 👨‍💻 Who I Am
 
-currently_building:
-  - Data Science & ML pipelines
-  - React web applications
-  - Digitized STEM notes in Markdown
-  - "Vibe coding" experiments ✨
+- 🌍 Based in **Patna, Bihar, India**
+- 🎓 **IIT Madras** BS in Data Science (Online Degree)
+- 🎯 **JEE Main 2026** Aspirant — PCM + CS background
+- 💼 **Founder & Owner** of [Xeraphine Technology](https://xeraphine.in)
+- 🚀 On a mission to become a **world-class Data Scientist & AI Engineer**
+- 🏢 Dream: Build cutting-edge tech at **Google, Microsoft, Amazon, or OpenAI**
+- 🔭 Long-term: **Lead DS teams → MS Abroad → Build AI that matters**
 
-fun_facts:
-  - 🌌 Avid stargazer (Orion's Belt is my north star)
-  - 🎬 Sita Ramam supremacy
-  - 📝 Galaxy Tab note-taking enthusiast
-  - 🤝 Love mentoring juniors in science & tech
-```
+### 🔥 Currently Building
 
-<br clear="both" />
+- 🤖 Data Science & ML pipelines
+- ⚛️ React web applications
+- 📝 Digitizing complex STEM notes into Markdown
+- ✨ Experimenting with "vibe coding"
+
+</td>
+<td width="45%" valign="top">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="coding gif" />
+
+### 🌌 Beyond the Screen
+
+- 🔭 Avid **stargazer** — Orion's Belt is my north star
+- 🎬 *Sita Ramam* supremacy 🙌
+- 📝 Galaxy Tab note-taking enthusiast
+- 🤝 Love mentoring juniors in science & tech
+- 🎧 Best code happens with lo-fi beats & midnight silence
+
+</td>
+</tr>
+</table>
 
 <!-- Animated wave divider -->
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
@@ -145,20 +155,20 @@ fun_facts:
 <!-- Trophies — full width, gamified -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=himanshukr2245&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=himanshukr2245&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&rank=-?" width="100%" alt="GitHub Trophies"/>
   </a>
 </p>
 
 <br/>
 
-<!-- Stats row — 3 cards side by side -->
+<!-- Stats row — 2 cards side by side -->
 <p align="center">
   <a href="https://github.com/himanshukr2245">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshukr2245&show_icons=true&theme=algolia&bg_color=0d1117&title_color=667eea&icon_color=bb86fc&text_color=c9d1d9&hide_border=true&count_private=true&include_all_commits=true&ring_color=764ba2" alt="Himanshu's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshukr2245&show_icons=true&theme=algolia&bg_color=0d1117&title_color=667eea&icon_color=bb86fc&text_color=c9d1d9&hide_border=true&count_private=true&include_all_commits=true&ring_color=764ba2&cache_seconds=86400" alt="Himanshu's GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/himanshukr2245">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukr2245&layout=compact&theme=algolia&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukr2245&layout=compact&theme=algolia&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&hide_border=true&langs_count=8&card_width=320&cache_seconds=86400" alt="Top Languages" />
   </a>
 </p>
 
@@ -235,7 +245,7 @@ fun_facts:
 
 **Founded & led by Himanshu**, Xeraphine Technology is where innovation meets execution. We leverage cutting-edge AI, data science, and modern web technologies to build products that matter.
 
-[![Visit Xeraphine](https://img.shields.io/badge/🌐_Visit_xeraphine.tech-667eea?style=for-the-badge)](https://xeraphine.tech)
+[![Visit Xeraphine](https://img.shields.io/badge/🌐_Visit_xeraphine.in-667eea?style=for-the-badge)](https://xeraphine.in)
 
 </td>
 </tr>
@@ -315,21 +325,7 @@ fun_facts:
 <!-- Animated wave divider -->
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║              🌌 BEYOND THE CODE                            ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-
-## 🌌 Beyond the Code
-
-<div align="center">
-
-| | |
-|:---:|:---:|
-| 🔭 **Stargazer** — I look up at the night sky and lose myself. Orion's Belt? *Chef's kiss.* | 🎬 **Cinema** — *Sita Ramam* isn't just a movie. It's an experience. |
-| 📝 **Note Geek** — Digitizing complex STEM notes on my Galaxy Tab with markdown precision. | 🤝 **Mentor** — Nothing beats helping someone crack a hard physics problem. |
-| 🎧 **Vibe Coder** — Best code happens with lo-fi beats and midnight silence. | ⚡ **Optimizer** — Always tweaking workflows, setups, and systems for perfection. |
-
-</div>
+<!-- Beyond the Code section moved into About Me table above -->
 
 <!-- Animated wave divider -->
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
@@ -364,8 +360,8 @@ fun_facts:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://xeraphine.tech">
-  <img src="https://img.shields.io/badge/Xeraphine.tech-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="https://xeraphine.in">
+  <img src="https://img.shields.io/badge/Xeraphine.in-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -409,9 +405,25 @@ himanshu = {
 
 <br/>
 
-To make the snake contribution graph work, you need to set up a GitHub Action in your profile repository (`himanshukr2245/himanshukr2245`):
+To make the snake contribution graph work, follow these steps **exactly**:
 
-1. **Create the workflow file** at `.github/workflows/snake.yml`:
+### Step 1: Commit the workflow file
+You've already created `.github/workflows/snake.yml` — make sure you **click "Commit changes"** (green button, top right) to save it to the `main` branch.
+
+### Step 2: Run the workflow manually
+1. Go to your repo: `github.com/himanshukr2245/himanshukr2245`
+2. Click the **"Actions"** tab at the top
+3. In the left sidebar, click **"Generate Snake Animation"**
+4. Click the **"Run workflow"** dropdown button (on the right)
+5. Click the green **"Run workflow"** button
+6. Wait ~1 minute for it to finish (green checkmark = success)
+
+### Step 3: Verify
+After the action completes, check if the `output` branch was created:
+- Go to `github.com/himanshukr2245/himanshukr2245/tree/output`
+- You should see `github-snake.svg` and `github-snake-dark.svg`
+
+### The workflow file (`.github/workflows/snake.yml`):
 
 ```yaml
 name: Generate Snake Animation
@@ -445,9 +457,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-2. **Run the action** manually from the Actions tab
-3. The snake SVG will be available at:
-   - `https://raw.githubusercontent.com/himanshukr2245/himanshukr2245/output/github-snake-dark.svg`
+### ⚠️ Common Issues:
+- **"This workflow has no runs yet"** → You haven't clicked "Run workflow" yet
+- **Action failed** → Check that the file is in `.github/workflows/snake.yml` (exact path), and that the repo has Actions enabled in Settings
+- **Image still broken** → The `output` branch takes a minute to appear after the first run
 
 </details>
 
@@ -460,7 +473,7 @@ jobs:
 
 <img src="https://img.shields.io/badge/Made_with-❤️_and_☕-667eea?style=for-the-badge" />
 
-**© 2026 Himanshu Kumar • [Xeraphine Technology](https://xeraphine.tech)**
+**© 2026 Himanshu Kumar • [Xeraphine Technology](https://xeraphine.in)**
 
 *If my repos helped you, drop a ⭐ — it means the world!*
 
