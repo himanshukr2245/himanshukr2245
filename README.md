@@ -18,7 +18,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:667eea,100:764ba2&height=220&section=header&text=HIMANSHU&fontSize=80&fontColor=ffffff&animation=fadeIn&stroke=667eea&strokeWidth=2&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20React%20Developer%20%E2%80%A2%20Founder&descSize=16&descAlignY=75&descAlign=50" />
 
 <!-- Dynamic typing effect — personal & specific -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%94%AC+Turning+Data+into+Intelligence;%F0%9F%8F%97%EF%B8%8F+Building+the+Future+%40+Xeraphine+Technology;%F0%9F%8E%93+IIT+Madras+BS+Data+Science+%7C+JEE+2026;%E2%9C%A8+Stargazer+%7C+Builder+%7C+Dreamer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%94%AC+Turning+Data+into+Intelligence;%F0%9F%8F%97%EF%B8%8F+Building+the+Future+%40+Xeraphine+Technology;%F0%9F%8E%93+IIT+Madras+DS+%7C+Dream%3A+IIIT+Hyderabad;%E2%9C%A8+Stargazer+%7C+Builder+%7C+Dreamer" alt="Typing SVG" /></a>
 
 <!-- Profile badges row -->
 <br/>
@@ -48,9 +48,9 @@
 
 - 🌍 Based in **Patna, Bihar, India**
 - 🎓 **IIT Madras** BS in Data Science (Online Degree)
-- 🎯 **JEE Main 2026** Aspirant — PCM + CS background
+- 🎯 **Entrance Exams** — Preparing for April–May 2026, dream college: **IIIT Hyderabad**
 - 💼 **Founder & Owner** of [Xeraphine Technology](https://xeraphine.in)
-- 🚀 On a mission to become a **world-class Data Scientist & AI Engineer**
+- 🚀 On a mission to become a **Professional Data Scientist**
 - 🏢 Dream: Build cutting-edge tech at **Google, Microsoft, Amazon, or OpenAI**
 - 🔭 Long-term: **Lead DS teams → MS Abroad → Build AI that matters**
 
@@ -257,73 +257,39 @@
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 <!-- ╔══════════════════════════════════════════════════════════════╗
-     ║              🎯 CURRENT QUEST                              ║
+     ║              🎯 WHAT I'M UP TO                              ║
      ╚══════════════════════════════════════════════════════════════╝ -->
 
-## 🎯 Current Quest & Roadmap
-
-<div align="center">
-
-```
-                    ╔═══════════════════════════════════════════════════════════╗
-                    ║               H I M A N S H U ' S   2 0 2 6             ║
-                    ╠═══════════════════════════════════════════════════════════╣
-                    ║                                                           ║
-  🎓 ACADEMICS     ║  IIT Madras DS ████████████████░░░░  80%                  ║
-                    ║  JEE Main 2026 ██████████████░░░░░░  70%                  ║
-                    ║                                                           ║
-  🤖 ML / AI       ║  Deep Learning ████████████░░░░░░░░  60%   ← grinding    ║
-                    ║  NLP & LLMs   ██████████░░░░░░░░░░  50%   ← exploring   ║
-                    ║  Computer Vis ████████░░░░░░░░░░░░░  40%   ← starting    ║
-                    ║                                                           ║
-  ⚛️ WEB DEV       ║  React        █████████████████░░░░  85%   ← confident   ║
-                    ║  Next.js      ████████████░░░░░░░░░  60%   ← building    ║
-                    ║  Full-Stack   ██████████████░░░░░░░  70%   ← growing     ║
-                    ║                                                           ║
-  🏢 XERAPHINE     ║  Growth       ████████████████░░░░░  80%   ← scaling     ║
-                    ║                                                           ║
-                    ╚═══════════════════════════════════════════════════════════╝
-```
-
-</div>
+## 🎯 What I'm Up To
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 📚 Currently Grinding
-- 🧠 Advanced ML & Deep Learning
-- 📊 Statistical Learning Theory
-- ⚛️ React + Next.js projects
-- 🎯 JEE Main preparation
-- 📝 STEM notes digitization
-
-</td>
-<td width="33%" valign="top">
-
-### 🎯 2026 Goals
-- 🏆 Crack JEE Main with top rank
-- 📈 Excel in IIT Madras DS program
-- 🚀 Scale Xeraphine Technology
-- 🧪 Publish ML research/project
-- 🌍 Build open-source DS tools
+### 📚 Right Now
+- 🎓 Preparing for **entrance exams** (April–May 2026)
+- 🏛️ Dream college: **IIIT Hyderabad**
+- 📊 Continuing **IIT Madras BS Data Science** program
+- 🤖 Deep diving into **ML, AI & Data Science**
+- ⚛️ Building web apps with **React**
+- 📝 Digitizing STEM notes into Markdown
+- 🏢 Growing **Xeraphine Technology**
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🔮 The Dream
-- 🏢 Work at Google/Microsoft/OpenAI
-- 🎓 MS in CS/AI from a top university
-- 🧑‍💼 Lead Data Science teams
-- 🌟 Build AI that transforms lives
-- 🚀 Make Xeraphine a global brand
+### 🔮 The Vision
+- 🎓 Get into **IIIT-H** → study CS/Data Science
+- 🧠 Become a **Professional Data Scientist**
+- 🏢 Work at **Google / Microsoft / OpenAI**
+- 🌍 Pursue **MS abroad** from a top university
+- 🧑‍💼 Lead **Data Science teams**
+- 🚀 Scale **Xeraphine** into a global brand
+- 🌟 Build AI that **transforms lives**
 
 </td>
 </tr>
 </table>
-
-<!-- Animated wave divider -->
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 <!-- Beyond the Code section moved into About Me table above -->
 
@@ -382,87 +348,19 @@
 
 ### ⚡ Quick Facts
 
-```python
-himanshu = {
-    "pronouns": "he/him",
-    "code": ["Python", "JavaScript", "TypeScript", "SQL"],
-    "currently_learning": ["Deep Learning", "LLMs", "System Design"],
-    "tech_communities": "GitHub Developer Program Member",
-    "ask_me_about": ["Data Science", "ML", "React", "Building a tech company at 17"],
-    "fun_fact": "I debug code while stargazing — Orion's Belt has never let me down 🌌",
-    "motto": "Learn. Build. Ship. Repeat. 🚀"
-}
-```
+| | |
+|:---|:---|
+| 🗣️ **Pronouns** | he / him |
+| 💻 **Languages** | Python, JavaScript, TypeScript, SQL |
+| 📚 **Learning** | Deep Learning, LLMs, System Design |
+| 🏅 **Community** | GitHub Developer Program Member |
+| 💬 **Ask me about** | Data Science, ML, React, Building a tech company |
+| 🌌 **Fun fact** | I debug code while stargazing — Orion's Belt has never let me down |
+| 🚀 **Motto** | *Learn. Build. Ship. Repeat.* |
 
 </div>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║              🐍 SNAKE SETUP INSTRUCTIONS                   ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-
-<details>
-<summary><b>🐍 How to Enable the Snake Animation</b></summary>
-
-<br/>
-
-To make the snake contribution graph work, follow these steps **exactly**:
-
-### Step 1: Commit the workflow file
-You've already created `.github/workflows/snake.yml` — make sure you **click "Commit changes"** (green button, top right) to save it to the `main` branch.
-
-### Step 2: Run the workflow manually
-1. Go to your repo: `github.com/himanshukr2245/himanshukr2245`
-2. Click the **"Actions"** tab at the top
-3. In the left sidebar, click **"Generate Snake Animation"**
-4. Click the **"Run workflow"** dropdown button (on the right)
-5. Click the green **"Run workflow"** button
-6. Wait ~1 minute for it to finish (green checkmark = success)
-
-### Step 3: Verify
-After the action completes, check if the `output` branch was created:
-- Go to `github.com/himanshukr2245/himanshukr2245/tree/output`
-- You should see `github-snake.svg` and `github-snake-dark.svg`
-
-### The workflow file (`.github/workflows/snake.yml`):
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */6 * * *" # Runs every 6 hours
-  workflow_dispatch: # Allows manual trigger
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-### ⚠️ Common Issues:
-- **"This workflow has no runs yet"** → You haven't clicked "Run workflow" yet
-- **Action failed** → Check that the file is in `.github/workflows/snake.yml` (exact path), and that the repo has Actions enabled in Settings
-- **Image still broken** → The `output` branch takes a minute to appear after the first run
-
-</details>
+<!-- Snake setup instructions moved to SNAKE-SETUP.md -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
